@@ -14,8 +14,9 @@ In Arm Cortex M4  - ITM unot -> **Instrumentaion Trace Macrocell Unit**    (Supp
 
 Using Serial wrie Debug we can Debu MCU Internal Flash ,memory Regions , Add break points  
 
+ 
 
-![Uploading 2025-04-15_22-25.png…]()  
+![2025-04-15_22-25](https://github.com/user-attachments/assets/eabbf794-ac57-4457-bada-80e0d2e4181f)
 
 
 
