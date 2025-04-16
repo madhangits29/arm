@@ -5,6 +5,8 @@ In Arm Cortex M4  - ITM unot -> **Instrumentaion Trace Macrocell Unit**    (Supp
 
 2.along with SWD (Serial Wire Debug)  
 
+3. Internal Pheriphral
+
 
 
 **_Serial Wire Debug_ ** its protocol  
