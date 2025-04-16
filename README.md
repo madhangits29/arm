@@ -4,6 +4,7 @@ In Arm Cortex M4  - ITM unot -> **Instrumentaion Trace Macrocell Unit**    (Supp
 1.its used for tracking ,debugging
 2.along with SWD (Serial Wire Debug)
 
+
 **_Serial Wire Debug_ ** its protocol
 
 
