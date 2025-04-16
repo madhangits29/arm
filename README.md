@@ -7,7 +7,16 @@ In Arm Cortex M4  - ITM unot -> **Instrumentaion Trace Macrocell Unit**    (Supp
 
 
 
-**_Serial Wire Debug_ ** its protocol
+**_Serial Wire Debug_ ** its protocol  
+
+
+![2025-04-15_22-22](https://github.com/user-attachments/assets/c3caea29-c7f6-4090-a02d-9fa007b1be5f)  
+
+Using Serial wrie Debug we can Debu MCU Internal Flash ,memory Regions , Add break points  
+
+
+![Uploading 2025-04-15_22-25.png…]()  
+
 
 
 
