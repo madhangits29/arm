@@ -23,5 +23,9 @@ Using Serial wrie Debug we can Debu MCU Internal Flash ,memory Regions , Add bre
 
 
 
+Various DEbug Options in Cube ID  
 
+Following Are the Debug Options in the ARM ID  
+
+![Image](https://github.com/user-attachments/assets/f9b486ff-1ae2-481f-a893-46ce7ea87975)
 
